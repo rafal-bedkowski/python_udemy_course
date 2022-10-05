@@ -1,5 +1,7 @@
 # Python Course progress repo --Basics-- 
 > Live demo [_here_](#).
+> Live demo [_here_](https://www.udemy.com/course/complete-python-bootcamp/).
+
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -7,14 +9,12 @@
 * [Setup](#setup)
 * [Project Status](#project-status)
 
+
 ## General Information
 - Cointain basic python knowledge
 
 ## Technologies Used
-- Pure Python
-
-
-
+- Python
 
 
 ## Setup
@@ -32,3 +32,4 @@ Scripts you can use:
 
 ## Project Status
 Project is: under construction
+
