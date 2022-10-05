@@ -1,6 +1,6 @@
 # Python Course progress repo --Basics-- 
 > Live demo [_here_](#).
-> Live demo [_here_](https://www.udemy.com/course/complete-python-bootcamp/).
+> Link to the course [_here_](https://www.udemy.com/course/complete-python-bootcamp/).
 
 
 ## Table of Contents
